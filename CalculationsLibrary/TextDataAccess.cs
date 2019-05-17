@@ -1,12 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.IO;
-using System.Linq;
-using System.Text;
 
 namespace CalculationsLibrary
 {
-    public class TextDataAccess
+    public interface ITextDataAccess
+    {
+        void SaveText(string filePath, List<string> lines);
+
+    }
+
+    public class TextDataAccess : ITextDataAccess
     {
         public void SaveText(string filePath, List<string> lines)
         {
@@ -18,6 +21,7 @@ namespace CalculationsLibrary
             string fileName = Path.GetFileName(filePath);
 
             File.WriteAllLines(fileName, lines);
+
         }
     }
 }

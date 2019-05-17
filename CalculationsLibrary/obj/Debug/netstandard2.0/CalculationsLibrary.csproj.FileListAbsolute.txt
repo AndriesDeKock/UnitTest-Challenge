@@ -1,0 +1,17 @@
+C:\Users\me\source\repos\UnitTestingChallengeApp\CalculationsLibrary\bin\Debug\netstandard2.0\CalculationsLibrary.deps.json
+C:\Users\me\source\repos\UnitTestingChallengeApp\CalculationsLibrary\bin\Debug\netstandard2.0\CalculationsLibrary.dll
+C:\Users\me\source\repos\UnitTestingChallengeApp\CalculationsLibrary\bin\Debug\netstandard2.0\CalculationsLibrary.pdb
+C:\Users\me\source\repos\UnitTestingChallengeApp\CalculationsLibrary\obj\Debug\netstandard2.0\CalculationsLibrary.csprojAssemblyReference.cache
+C:\Users\me\source\repos\UnitTestingChallengeApp\CalculationsLibrary\obj\Debug\netstandard2.0\CalculationsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\me\source\repos\UnitTestingChallengeApp\CalculationsLibrary\obj\Debug\netstandard2.0\CalculationsLibrary.AssemblyInfoInputs.cache
+C:\Users\me\source\repos\UnitTestingChallengeApp\CalculationsLibrary\obj\Debug\netstandard2.0\CalculationsLibrary.AssemblyInfo.cs
+C:\Users\me\source\repos\UnitTestingChallengeApp\CalculationsLibrary\obj\Debug\netstandard2.0\CalculationsLibrary.dll
+C:\Users\me\source\repos\UnitTestingChallengeApp\CalculationsLibrary\obj\Debug\netstandard2.0\CalculationsLibrary.pdb
+E:\Projects\VS2017\UnitTestChallengeStarterCode\CalculationsLibrary\bin\Debug\netstandard2.0\CalculationsLibrary.deps.json
+E:\Projects\VS2017\UnitTestChallengeStarterCode\CalculationsLibrary\bin\Debug\netstandard2.0\CalculationsLibrary.dll
+E:\Projects\VS2017\UnitTestChallengeStarterCode\CalculationsLibrary\bin\Debug\netstandard2.0\CalculationsLibrary.pdb
+E:\Projects\VS2017\UnitTestChallengeStarterCode\CalculationsLibrary\obj\Debug\netstandard2.0\CalculationsLibrary.csproj.CoreCompileInputs.cache
+E:\Projects\VS2017\UnitTestChallengeStarterCode\CalculationsLibrary\obj\Debug\netstandard2.0\CalculationsLibrary.AssemblyInfoInputs.cache
+E:\Projects\VS2017\UnitTestChallengeStarterCode\CalculationsLibrary\obj\Debug\netstandard2.0\CalculationsLibrary.AssemblyInfo.cs
+E:\Projects\VS2017\UnitTestChallengeStarterCode\CalculationsLibrary\obj\Debug\netstandard2.0\CalculationsLibrary.dll
+E:\Projects\VS2017\UnitTestChallengeStarterCode\CalculationsLibrary\obj\Debug\netstandard2.0\CalculationsLibrary.pdb
